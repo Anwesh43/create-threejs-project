@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const template = require('./template');
 const {writeFileSync, mkdirSync} = require('fs');
 const templateJs = require('./templateJs');

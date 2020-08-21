@@ -1,0 +1,14 @@
+{
+  "name": "create-threejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createThreeJsProject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anwesh_43",
+  "license": "ISC",
+  "bin": {
+    "create-threejs-project": "./createThreeJsProject.js"
+  }
+}
