@@ -10,5 +10,9 @@
   "license": "ISC",
   "bin": {
     "create-threejs-project": "./createThreeJsProject.js"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Anwesh43/create-threejs-project.git"
   }
 }
