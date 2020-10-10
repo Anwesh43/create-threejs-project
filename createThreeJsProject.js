@@ -4,7 +4,7 @@ const {writeFileSync, mkdirSync} = require('fs');
 const templateJs = require('./templateJs');
 const args = process.argv;
 
-const FOUR_SPACES = '   ';
+const FOUR_SPACES = '     ';
 const EMPTY_STRING = '';
 
 const formatContent = (content) => 
